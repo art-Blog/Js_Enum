@@ -1,0 +1,1 @@
+Blog:https://dotblogs.com.tw/artblog/2018/05/23/javascript_enum
